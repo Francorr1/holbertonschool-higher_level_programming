@@ -4,4 +4,5 @@ def add():
     func = add.add
     a = 1
     b = 2
-    print("{} + {} = {}".format(a, b, func(a, b)))
+    res = func(a, b)
+    print("{} + {} = {}".format(a, b, res))
