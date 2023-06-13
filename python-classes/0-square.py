@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 """
-define square class
+In this file I create a class squere
 """
 
 
-class square:
+class Square:
     """
-    empty class
+    Is a class Squere.
     """
     __dict__ = {}
