@@ -1,7 +1,11 @@
 #!/usr/bin/python3
-"""define class"""
+"""
+define square class
+"""
 
 
 class square:
-    """make class empty"""
+    """
+    empty class
+    """
     __dict__ = {}
