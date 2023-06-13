@@ -4,4 +4,4 @@
 
 class square:
     """make class empty"""
-    pass
+    __dict__ = {}
