@@ -13,3 +13,4 @@ class square:
         define the size
         """
         self.__size = size
+    pass
