@@ -8,8 +8,8 @@ class square:
     """
     define private attribute size
     """
-    def __init__(self, size):
-        self.__size = size
+    def __init__(self, __size):
+        self.__size = __size
         """
         define the size
         """
