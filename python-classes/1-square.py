@@ -4,13 +4,13 @@ a square class
 """
 
 
-class square:
+class Square:
     """
     define private attribute size
     """
 
-    def __init__(self, __size):
-        self.__size = __size
+    def __init__(self, size):
+        self.__size = size
         """
         define the size
         """
