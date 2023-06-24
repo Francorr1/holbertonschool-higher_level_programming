@@ -2,12 +2,10 @@
 """ define rectangle class """
 
 
-
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 
-
-class rectangle(BaseGeometry):
+class Rectangle(BaseGeometry):
     """ class rectangle """
     def __init__(self, width, height):
         self.integer_validator("width", width)
