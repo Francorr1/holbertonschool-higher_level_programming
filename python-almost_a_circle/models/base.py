@@ -1,6 +1,5 @@
 #!/usr/bin/pyhton3
 """ define class Base """
-import json
 
 
 class Base:
